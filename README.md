@@ -16,7 +16,7 @@ This project is built using **HTML, CSS, and JavaScript** to practice real-world
 After deployment using **GitHub Pages**
 
 ```
-https://your-username.github.io/kcc-clone/
+https://Anuj8653.github.com/KCCITM-Clone/
 ```
 
 ---
@@ -83,7 +83,7 @@ kcc-clone/
 1️⃣ Download or clone the repository
 
 ```
-git clone https://github.com/your-username/kcc-clone.git
+git clone https://github.com/Anuj8653/KCCITM-Clone.git
 ```
 
 2️⃣ Open the folder

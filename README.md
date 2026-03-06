@@ -16,7 +16,7 @@ This project is built using **HTML, CSS, and JavaScript** to practice real-world
 After deployment using **GitHub Pages**
 
 ```
-https://Anuj8653.github.com/KCCITM-Clone/
+https://anuj8653.github.io/KCCITM-Clone/
 ```
 
 ---
